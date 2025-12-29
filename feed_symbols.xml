@@ -1,0 +1,94 @@
+<jobs>
+  <script id="datalayer-checker-script"/>
+
+  <job>
+    <apply_url><![CDATA[ https://www.webscribble.com/test1 ]]></apply_url>
+    <category><![CDATA[ Research & Development ]]></category>
+    <city><![CDATA[ Hemet ]]></city>
+    <company_name><![CDATA[ Test Company ]]></company_name>
+    <country><![CDATA[ US ]]></country>
+    <description><![CDATA[ <p>Test Job 1 description</p> ]]></description>
+    <job_id><![CDATA[ 1001 ]]></job_id>
+    <ref_number><![CDATA[ ref-1001 ]]></ref_number>
+    <location><![CDATA[ Hemet, California, US, 19103 ]]></location>
+    <position_type><![CDATA[ Full Time ]]></position_type>
+    <salary><![CDATA[ $100,000 - $150,000 ]]></salary>
+    <salary_type><![CDATA[ Per Year ]]></salary_type>
+    <state><![CDATA[ CA ]]></state>
+    <title>Senior Web Portal Developer &ndash; SECRET Required</title>
+    <zipcode><![CDATA[ 19103 ]]></zipcode>
+  </job>
+
+  <job>
+    <apply_url><![CDATA[ https://www.webscribble.com/test2 ]]></apply_url>
+    <category><![CDATA[ QA ]]></category>
+    <city><![CDATA[ Dallas ]]></city>
+    <company_name><![CDATA[ Test Company ]]></company_name>
+    <country><![CDATA[ US ]]></country>
+    <description><![CDATA[ <p>Test Job 2 description</p> ]]></description>
+    <job_id><![CDATA[ 1002 ]]></job_id>
+    <ref_number><![CDATA[ ref-1002 ]]></ref_number>
+    <location><![CDATA[ Dallas, Texas, US, 12180 ]]></location>
+    <position_type><![CDATA[ Part Time ]]></position_type>
+    <salary><![CDATA[ 20 ]]></salary>
+    <salary_type><![CDATA[ Per Hour ]]></salary_type>
+    <state><![CDATA[ TX ]]></state>
+    <title>QA Engineer &amp; Automation Specialist</title>
+    <zipcode><![CDATA[ 12180 ]]></zipcode>
+  </job>
+
+  <job>
+    <apply_url><![CDATA[ https://www.webscribble.com/test3 ]]></apply_url>
+    <category><![CDATA[ Engineering ]]></category>
+    <city><![CDATA[ Austin ]]></city>
+    <company_name><![CDATA[ Test Company ]]></company_name>
+    <country><![CDATA[ US ]]></country>
+    <description><![CDATA[ <p>Test Job 3 description</p> ]]></description>
+    <job_id><![CDATA[ 1003 ]]></job_id>
+    <ref_number><![CDATA[ ref-1003 ]]></ref_number>
+    <location><![CDATA[ Austin, Texas, US, 73301 ]]></location>
+    <position_type><![CDATA[ Full Time ]]></position_type>
+    <salary><![CDATA[ €80,000 – €95,000 ]]></salary>
+    <salary_type><![CDATA[ Per Year ]]></salary_type>
+    <state><![CDATA[ TX ]]></state>
+    <title>Backend Developer &mdash; PHP &amp; Laravel</title>
+    <zipcode><![CDATA[ 73301 ]]></zipcode>
+  </job>
+
+  <job>
+    <apply_url><![CDATA[ https://www.webscribble.com/test4 ]]></apply_url>
+    <category><![CDATA[ Design ]]></category>
+    <city><![CDATA[ Remote ]]></city>
+    <company_name><![CDATA[ Test Company ]]></company_name>
+    <country><![CDATA[ US ]]></country>
+    <description><![CDATA[ <p>Test Job 4 description</p> ]]></description>
+    <job_id><![CDATA[ 1004 ]]></job_id>
+    <ref_number><![CDATA[ ref-1004 ]]></ref_number>
+    <location><![CDATA[ Remote, US ]]></location>
+    <position_type><![CDATA[ Contract ]]></position_type>
+    <salary><![CDATA[ $60 – $80 ]]></salary>
+    <salary_type><![CDATA[ Per Hour ]]></salary_type>
+    <state><![CDATA[ N/A ]]></state>
+    <title>UI&nbsp;/&nbsp;UX Designer &ldquo;Mobile First&rdquo;</title>
+    <zipcode><![CDATA[ 00000 ]]></zipcode>
+  </job>
+
+  <job>
+    <apply_url><![CDATA[ https://www.webscribble.com/test5 ]]></apply_url>
+    <category><![CDATA[ DevOps ]]></category>
+    <city><![CDATA[ Seattle ]]></city>
+    <company_name><![CDATA[ Test Company ]]></company_name>
+    <country><![CDATA[ US ]]></country>
+    <description><![CDATA[ <p>Test Job 5 description</p> ]]></description>
+    <job_id><![CDATA[ 1005 ]]></job_id>
+    <ref_number><![CDATA[ ref-1005 ]]></ref_number>
+    <location><![CDATA[ Seattle, Washington, US, 98101 ]]></location>
+    <position_type><![CDATA[ Full Time ]]></position_type>
+    <salary><![CDATA[ $120,000 &plusmn; 10% ]]></salary>
+    <salary_type><![CDATA[ Per Year ]]></salary_type>
+    <state><![CDATA[ WA ]]></state>
+    <title>DevOps Engineer &lt;Cloud &amp; Kubernetes&gt;</title>
+    <zipcode><![CDATA[ 98101 ]]></zipcode>
+  </job>
+
+</jobs>
