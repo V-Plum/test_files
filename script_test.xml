@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jobs>
+  <script id="datalayer-checker-script"/>
+
+  <job>
+    <apply_url><![CDATA[ https://www.webscribble.com/test1 ]]></apply_url>
+    <category><![CDATA[ <script>alert("Hello from inline JavaScript!");</script> ]]></category>
+    <city><![CDATA[ <script>alert("Hello from inline JavaScript!");</script> ]]></city>
+    <company_name><![CDATA[ <script>alert("Hello from inline JavaScript!");</script> ]]></company_name>
+    <country><![CDATA[ US ]]></country>
+    <description><![CDATA[ <script>alert("Hello from inline JavaScript!");</script> ]]></description>
+    <job_id><![CDATA[ 2001 ]]></job_id>
+    <ref_number><![CDATA[ ref-2001 ]]></ref_number>
+    <location><![CDATA[ Hemet, California, US, 19103 ]]></location>
+    <position_type><![CDATA[ Full Time ]]></position_type>
+    <salary><![CDATA[ $100,000 – $150,000 ]]></salary>
+    <salary_type><![CDATA[ Per Year ]]></salary_type>
+    <state><![CDATA[ CA ]]></state>
+    <title><script>alert("Hello from inline JavaScript!");</script></title>
+    <zipcode><![CDATA[ 19103 ]]></zipcode>
+  </job>
+
+</jobs>
