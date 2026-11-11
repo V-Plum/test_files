@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jobs>
+  <job>
+    <job_id>NG6553-1</job_id>
+    <title>NG-6553 Entity Test Analyst</title>
+    <company_name>Smith &amp;amp; Sons NG6553</company_name>
+    <description>Company name in this job is stored in the feed as an HTML entity (Smith &amp;amp; Sons).</description>
+    <apply_url>https://example.com/apply/ng6553-1</apply_url>
+    <city>Chicago</city>
+    <state>IL</state>
+    <country>US</country>
+    <zipcode>60601</zipcode>
+  </job>
+  <job>
+    <job_id>NG6553-2</job_id>
+    <title>NG-6553 Script Test Analyst</title>
+    <company_name>Acme &amp;lt;script&amp;gt;alert(3)&amp;lt;/script&amp;gt; NG6553</company_name>
+    <description>Company name contains an entity-encoded script tag.</description>
+    <apply_url>https://example.com/apply/ng6553-2</apply_url>
+    <city>Chicago</city>
+    <state>IL</state>
+    <country>US</country>
+    <zipcode>60601</zipcode>
+  </job>
+  <job>
+    <job_id>NG6553-3</job_id>
+    <title>NG-6553 Raw Script Test Analyst</title>
+    <company_name>Beta &lt;script&gt;alert(4)&lt;/script&gt; NG6553</company_name>
+    <description>Company name contains a raw script tag after XML parsing.</description>
+    <apply_url>https://example.com/apply/ng6553-3</apply_url>
+    <city>Chicago</city>
+    <state>IL</state>
+    <country>US</country>
+    <zipcode>60601</zipcode>
+  </job>
+</jobs>
